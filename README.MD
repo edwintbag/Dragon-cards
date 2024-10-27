@@ -10,4 +10,4 @@ This project is a 3D image slider built primarily with CSS. The slider provides 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dragon cards.git
+   git clone https://github.com/@edwintbag/dragon cards.git
